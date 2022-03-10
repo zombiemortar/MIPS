@@ -1,0 +1,1 @@
+Templated readme file for the MIPS repo.
